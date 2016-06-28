@@ -1,6 +1,6 @@
 {
   "name": "csv-l10nify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "csv-l10n for Browserify",
   "main": "index.js",
   "keywords": [
@@ -17,6 +17,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "csv-l10n": "^1.1.3"
+    "csv-l10n": "^0.1.3"
   }
 }
